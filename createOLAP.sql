@@ -1,4 +1,4 @@
--- Membuat Data Warehouse Sales 
+-- Create OLAP Database Sales 
 USE MASTER
 GO
 CREATE DATABASE Sales
